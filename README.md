@@ -12,4 +12,5 @@
 ## 性能监视
 
 [Node.js 应用故障排查手册](https://github.com/aliyun-node/Node.js-Troubleshooting-Guide)
-[JS 基准测试模式——jsPerf】(https://mathiasbynens.be/notes/javascript-benchmarking)
+
+[JS 基准测试模式——jsPerf](https://mathiasbynens.be/notes/javascript-benchmarking)
