@@ -14,3 +14,4 @@
 [Node.js 应用故障排查手册](https://github.com/aliyun-node/Node.js-Troubleshooting-Guide)
 
 [JS 基准测试模式——jsPerf](https://mathiasbynens.be/notes/javascript-benchmarking)
+[eslint 在大型团队的使用](https://tech.meituan.com/2019/08/01/eslint-application-practice-in-medium-and-large-teams.html)
