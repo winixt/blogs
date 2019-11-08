@@ -16,3 +16,5 @@
 [JS 基准测试模式——jsPerf](https://mathiasbynens.be/notes/javascript-benchmarking)
 
 [eslint 在大型团队的使用](https://tech.meituan.com/2019/08/01/eslint-application-practice-in-medium-and-large-teams.html)
+
+[玉伯前端成长之路](https://mp.weixin.qq.com/s/1-rXIRKsPIvpZc9dtm6MAw)
