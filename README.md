@@ -1,5 +1,10 @@
 # 在此收集其他作者的好文章
 
+## 前端峰会资源
+
+[第三届 SEE Conf 2020](https://www.yuque.com/seeconf/2020)
+
+
 ## 前端服务化
 
 [页面搭建工具的生与死](https://www.cnblogs.com/sskyy/p/6496287.html)
