@@ -2,7 +2,7 @@
   "name": "root",
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "version": "lerna version --no-commit-hooks --no-private",
+    "version": "lerna version --no-commit-hooks --no-private --conventional-commits",
     "publish": "lerna publish from-git",
     "push": "git push --tags"
   },
