@@ -3,6 +3,9 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<!-- DO NOT CHANGE THESE COMMENTS - See .github/actions/trigger-github-release/update-changelog.js -->
+<!-- insert-new-changelog-here -->
+
 ## [0.1.4](https://github.com/winixt/blogs/compare/v0.1.3...v0.1.4) (2020-09-19)
 
 
@@ -14,4 +17,3 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# CHANGELOG
