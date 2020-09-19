@@ -48,6 +48,6 @@ jobs:
         if: steps.is_master.outputs.result == 1
         run: |
           git add CHANGELOG.md
-          git -c user.name="winixt" -c user.email="haizeikuo@gmail.com" \
+          git -c user.name="winixt" -c user.email="haizekuo@gmail.com" \
             commit -m "Add ${{ steps.tags.outputs.new }} to CHANGELOG.md [skip ci]" --no-verify --quiet
           git push "https://winixt:${{ secrets.BOT_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" master
