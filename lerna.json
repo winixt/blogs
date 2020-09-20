@@ -22,6 +22,9 @@
         "**/test/**"
       ],
       "message": "chore(release): publish"
+    },
+    "version": {
+      "push": false
     }
   },
   "packages": [

@@ -2,18 +2,18 @@
   "name": "root",
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "version": "lerna version --no-commit-hooks --no-private --conventional-commits",
+    "version": "lerna version --no-commit-hooks --no-private --conventional-commits --changelog-preset=atom",
     "publish": "lerna publish from-git",
     "push": "git push --tags"
   },
   "devDependencies": {
-    "lerna": "^3.20.2",
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
     "@webank/eslint-config-webank": "^0.1.7",
     "commitizen": "^4.2.1",
-    "cz-lerna-changelog": "^2.0.3",
+    "cz-conventional-changelog": "^3.3.0",
     "husky": "^4.3.0",
+    "lerna": "^3.20.2",
     "lint-staged": "^10.4.0"
   },
   "husky": {
@@ -23,7 +23,7 @@
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-lerna-changelog"
+      "path": "./node_modules/cz-conventional-changelog"
     }
   }
 }
