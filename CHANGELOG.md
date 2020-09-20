@@ -1,9 +1,11 @@
-# [](https://github.com/winixt/blogs/compare/v0.2.1...v) (2020-09-20)
+# [](https://github.com/winixt/blogs/compare/v0.2.2...v) (2020-09-20)
 
 
-### :rocket: New Feature
 
-* changelog ([323aa4f](https://github.com/winixt/blogs/commit/323aa4f)) by: **bac-joker**
+# [](https://github.com/winixt/blogs/compare/v0.2.2...v) (2020-09-20)
+
+
+
 
 
 

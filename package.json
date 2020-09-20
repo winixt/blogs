@@ -5,7 +5,7 @@
     "version": "lerna version --no-commit-hooks --no-private",
     "publish": "lerna publish from-git",
     "push": "git push --tags",
-    "changelog": "conventional-changelog -p cmyr-config -i CHANGELOG.md -s -r 0"
+    "changelog": "conventional-changelog -p cmyr-config -i CHANGELOG.md -s"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",

@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "update-changelog",
+    "version": "1.0.0",
+    "license": "MIT",
+    "dependencies": {
+        "@actions/core": "^1.0.0",
+        "commitizen": "^4.2.1",
+        "conventional-changelog-cli": "^2.1.0",
+        "cz-conventional-changelog": "^3.3.0"
+    }
+}
