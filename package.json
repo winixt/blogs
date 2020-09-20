@@ -4,13 +4,16 @@
     "bootstrap": "lerna bootstrap",
     "version": "lerna version --no-commit-hooks --no-private --conventional-commits --changelog-preset=atom",
     "publish": "lerna publish from-git",
-    "push": "git push --tags"
+    "push": "git push --tags",
+    "changelog": "conventional-changelog -p custom-config -i CHANGELOG.md -s -r 0  -n ./changelog-options.js"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
     "@webank/eslint-config-webank": "^0.1.7",
     "commitizen": "^4.2.1",
+    "compare-func": "^2.0.0",
+    "conventional-changelog-custom-config": "^0.3.1",
     "cz-conventional-changelog": "^3.3.0",
     "husky": "^4.3.0",
     "lerna": "^3.20.2",
