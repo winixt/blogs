@@ -3,9 +3,7 @@
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "version": "lerna version --no-changelog --no-commit-hooks --no-private",
-    "publish": "lerna publish from-git",
-    "push": "git push --tags",
-    "changelog": "conventional-changelog -p cmyr-config -i CHANGELOG.md -s -r 0"
+    "publish": "lerna publish from-git"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
