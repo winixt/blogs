@@ -2,6 +2,22 @@
 
 <!-- DO NOT CHANGE THESE COMMENTS - See .github/actions/trigger-github-release/update-changelog.js -->
 <!-- insert-new-changelog-here -->
+## [0.2.4](https://github.com/winixt/blogs/compare/v0.2.3...v0.2.4) (2020-09-20)
+
+
+### :bug: Bug Fix
+
+* 完成changelog 改造 ([cb198e0](https://github.com/winixt/blogs/commit/cb198e0)) by: **bac-joker**
+
+
+### :memo: Documentation
+
+* 更改部分文档 ([37dfb34](https://github.com/winixt/blogs/commit/37dfb34)) by: **bac-joker**
+
+
+### :running_woman: Performance
+
+* 提升构建性能 ([79812ec](https://github.com/winixt/blogs/commit/79812ec)) by: **bac-joker**
 
 ## [0.2.1](https://github.com/winixt/blogs/compare/v0.2.0...v0.2.1) (2020-09-20)
 
