@@ -2,10 +2,10 @@
   "name": "root",
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "version": "lerna version --no-commit-hooks --no-private",
+    "version": "lerna version --no-changelog --no-commit-hooks --no-private",
     "publish": "lerna publish from-git",
     "push": "git push --tags",
-    "changelog": "conventional-changelog -p cmyr-config -i CHANGELOG.md -s"
+    "changelog": "conventional-changelog -p cmyr-config -i CHANGELOG.md -s -r 0"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
@@ -13,6 +13,7 @@
     "@webank/eslint-config-webank": "^0.1.7",
     "commitizen": "^4.2.1",
     "conventional-changelog-cli": "^2.1.0",
+    "conventional-changelog-custom-config": "^0.3.1",
     "cz-conventional-changelog": "^3.3.0",
     "husky": "^4.3.0",
     "lerna": "^3.20.2",
