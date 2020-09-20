@@ -1,6 +1,6 @@
 
 name: Generate changelog
-description: Uses lerna-changelog to generate the changelog from a tag to another
+description: Uses conventional-changelog to generate the changelog from a tag to another
 
 inputs:
   from:

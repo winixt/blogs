@@ -1,13 +1,7 @@
-# [](https://github.com/winixt/blogs/compare/v0.2.2...v) (2020-09-20)
+# Change Log
 
-
-
-# [](https://github.com/winixt/blogs/compare/v0.2.2...v) (2020-09-20)
-
-
-
-
-
+<!-- DO NOT CHANGE THESE COMMENTS - See .github/actions/trigger-github-release/update-changelog.js -->
+<!-- insert-new-changelog-here -->
 
 ## [0.2.1](https://github.com/winixt/blogs/compare/v0.2.0...v0.2.1) (2020-09-20)
 
