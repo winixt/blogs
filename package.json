@@ -2,7 +2,7 @@
   "name": "root",
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "version": "lerna version --no-commit-hooks --no-private --conventional-commits --changelog-preset=atom",
+    "version": "lerna version --no-commit-hooks --no-private",
     "publish": "lerna publish from-git",
     "push": "git push --tags",
     "changelog": "conventional-changelog -p custom-config -i CHANGELOG.md -s -r 0  -n ./changelog-options.js"
