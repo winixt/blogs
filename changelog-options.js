@@ -6,7 +6,7 @@ module.exports = {
             const issues = []
 
             commit.notes.forEach(note => {
-                note.title = 'BREAKING CHANGES'
+                note.title = ':boom: BREAKING CHANGES'
                 discard = false
             })
             if (commit.type === 'feat') {
@@ -14,17 +14,17 @@ module.exports = {
             } else if (commit.type === 'fix') {
                 commit.type = ':bug: Bug Fix'
             } else if (commit.type === 'perf') {
-                commit.type = '⚡ Performance Improvements | 性能优化'
+                commit.type = ':running_woman: Performance'
             } else if (commit.type === 'revert' || commit.revert) {
-                commit.type = '⏪ Reverts | 回退'
+                commit.type = ':leftwards_arrow_with_hook: Revert'
             } else if (discard) {
                 return
             } else if (commit.type === 'docs') {
-                commit.type = '📝 Documentation | 文档'
+                commit.type = ':memo: Documentation'
             } else if (commit.type === 'style') {
-                commit.type = '💄 Styles | 风格'
+                commit.type = ':eyeglasses: Spec Compliance'
             } else if (commit.type === 'refactor') {
-                commit.type = '♻ Code Refactoring | 代码重构'
+                commit.type = ':nail_care: Polish'
             } else if (commit.type === 'test') {
                 commit.type = '✅ Tests | 测试'
             } else if (commit.type === 'build') {

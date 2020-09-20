@@ -2,6 +2,7 @@
 
 * fix: prettier changelog ([01bf3da](https://github.com/winixt/blogs/commit/01bf3da))
 * feat: add scope ([20ec5a5](https://github.com/winixt/blogs/commit/20ec5a5))
+* feat: pretty changelog ([db29df4](https://github.com/winixt/blogs/commit/db29df4))
 
 
 
