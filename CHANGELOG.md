@@ -2,6 +2,12 @@
 
 <!-- DO NOT CHANGE THESE COMMENTS - See .github/actions/trigger-github-release/update-changelog.js -->
 <!-- insert-new-changelog-here -->
+## [0.2.5](https://github.com/winixt/blogs/compare/v0.2.4...v0.2.5) (2020-09-20)
+
+
+### :rocket: New Feature
+
+* 测试分支merge commit ([b374beb](https://github.com/winixt/blogs/commit/b374beb)) by: **bac-joker**
 ## [0.2.4](https://github.com/winixt/blogs/compare/v0.2.3...v0.2.4) (2020-09-20)
 
 
