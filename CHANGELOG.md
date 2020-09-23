@@ -2,6 +2,12 @@
 
 <!-- DO NOT CHANGE THESE COMMENTS - See .github/actions/trigger-github-release/update-changelog.js -->
 <!-- insert-new-changelog-here -->
+## [0.2.6](https://github.com/winixt/blogs/compare/v0.2.5...v0.2.6) (2020-09-23)
+
+
+### :bug: Bug Fix
+
+* 修复 commitc ([f95c828](https://github.com/winixt/blogs/commit/f95c828)) by: **bac-joker**
 ## [0.2.5](https://github.com/winixt/blogs/compare/v0.2.4...v0.2.5) (2020-09-20)
 
 
