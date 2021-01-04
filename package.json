@@ -2,7 +2,6 @@
   "name": "root",
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "version": "lerna version --no-changelog --no-commit-hooks --no-private",
     "publish": "lerna publish from-git",
     "version-pre": "lerna version prerelease --preid alpha --no-changelog --no-commit-hooks --no-private",
     "publish:pre": "lerna publish from-git --dist-tag next"
