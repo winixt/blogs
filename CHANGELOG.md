@@ -2,6 +2,13 @@
 
 <!-- DO NOT CHANGE THESE COMMENTS - See .github/actions/trigger-github-release/update-changelog.js -->
 <!-- insert-new-changelog-here -->
+## [0.2.7-alpha.1](https://github.com/winixt/blogs/compare/v0.2.6...v0.2.7-alpha.1) (2021-01-04)
+
+
+### :bug: Bug Fix
+
+* change package.json ([944bd46](https://github.com/winixt/blogs/commit/944bd46)) by: **bac-joker**
+* change package.json ([e57df1e](https://github.com/winixt/blogs/commit/e57df1e)) by: **bac-joker**
 ## [0.2.6](https://github.com/winixt/blogs/compare/v0.2.5...v0.2.6) (2020-09-23)
 
 
