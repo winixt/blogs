@@ -2,9 +2,8 @@
   "name": "root",
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "publish": "lerna publish from-git",
-    "version-pre": "lerna version prerelease --preid alpha --no-changelog --no-commit-hooks --no-private",
-    "publish:pre": "lerna publish from-git --dist-tag next"
+    "version": "lerna version premajor --preid alpha --no-changelog --no-commit-hooks --no-private",
+    "publish": "lerna publish from-git --dist-tag next"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
