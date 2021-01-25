@@ -13,6 +13,9 @@
 
 [通向零成本开发之路](https://os.alipayobjects.com/rmsportal/sJqXvOtwePsVWGNIwlas.pdf)
 
+## 前端项目架构
+
+[插件化设计](https://github.com/dt-fe/weekly/blob/v2/053.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%8F%92%E4%BB%B6%E5%8C%96%E6%80%9D%E7%BB%B4%E3%80%8B.md)
 
 ## 性能监视
 
